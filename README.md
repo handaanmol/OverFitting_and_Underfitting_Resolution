@@ -1,0 +1,2 @@
+# OverFitting_and_Underfitting_Resolution
+This code takes 2 sample datasets and tries to show you what is overfitting and underfitting. Later on, this code teaches you the ways to address the overfitting issues by considering Bias Variance Tradeoff, Regularization and Cross Validation Techniques. The code is written in Python. Feel free to use the code for your own projects. This code is motivated from the blogs of a Senior Data Scientist -  David Ziganto
